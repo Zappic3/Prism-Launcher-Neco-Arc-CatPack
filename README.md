@@ -1,5 +1,5 @@
 ## What is this?
-This is a CatPack for the Prism Launcher Minecraft Launcher, that adds Neco-Arc as a background cat options. 
+This is a CatPack for the Prism Launcher Minecraft Launcher, that adds Neco-Arc as a background cat option. 
 
 ## How to use
  0. Download and Install [Prism Launcher](https://prismlauncher.org/).
