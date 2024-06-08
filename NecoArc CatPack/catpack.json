@@ -1,0 +1,127 @@
+{
+  "name": "NecoArc",
+  "default": "default.png",
+  "variants": [
+	{
+      "startTime": {
+        "day": 16,
+        "month": 10
+      },
+      "endTime": {
+        "day": 16,
+        "month": 10
+      },
+      "path": "world_food_day.png"
+    },
+	{
+      "startTime": {
+        "day": 8,
+        "month": 9
+      },
+      "endTime": {
+        "day": 8,
+        "month": 9
+      },
+      "path": "literacy_day.png"
+    },
+	{
+      "startTime": {
+        "day": 21,
+        "month": 9
+      },
+      "endTime": {
+        "day": 21,
+        "month": 9
+      },
+      "path": "peace_and_friendship_day.png"
+    },
+	{
+      "startTime": {
+        "day": 30,
+        "month": 7
+      },
+      "endTime": {
+        "day": 30,
+        "month": 7
+      },
+      "path": "peace_and_friendship_day.png"
+    },
+	{
+      "startTime": {
+        "day": 7,
+        "month": 4
+      },
+      "endTime": {
+        "day": 7,
+        "month": 4
+      },
+      "path": "world_health_day.png"
+    },
+    {
+      "startTime": {
+        "day": 14,
+        "month": 2
+      },
+      "endTime": {
+        "day": 14,
+        "month": 2
+      },
+      "path": "neco_sexy.png"
+    },
+    {
+      "startTime": {
+        "day": 20,
+        "month": 12
+      },
+      "endTime": {
+        "day": 28,
+        "month": 12
+      },
+      "path": "xmas.png"
+    },
+	{
+      "startTime": {
+        "day": 20,
+        "month": 10
+      },
+      "endTime": {
+        "day": 3,
+        "month": 11
+      },
+      "path": "spooky.png"
+    },
+	{
+      "startTime": {
+        "day": 1,
+        "month": 6
+      },
+      "endTime": {
+        "day": 30,
+        "month": 6
+      },
+      "path": "femboy.png"
+    },
+    {
+      "startTime": {
+        "day": 30,
+        "month": 12
+      },
+      "endTime": {
+        "day": 1,
+        "month": 1
+      },
+      "path": "newyear2.png"
+    },
+    {
+      "startTime": {
+        "day": 28,
+        "month": 12
+      },
+      "endTime": {
+        "day": 3,
+        "month": 1
+      },
+      "path": "newyear1.png"
+    }
+  ]
+}
